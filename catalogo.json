@@ -1,0 +1,54 @@
+{
+    "productos": [
+        {
+            "nombre": "Laptop",
+            "precio": 1200,
+            "descripcion": "Una potente laptop con 16GB de RAM y 512GB de SSD."
+        },
+        {
+            "nombre": "Smartphone",
+            "precio": 800,
+            "descripcion": "Un smartphone con pantalla AMOLED y cámara de 48MP."
+        },
+        {
+            "nombre": "Auriculares",
+            "precio": 150,
+            "descripcion": "Auriculares inalámbricos con cancelación de ruido."
+        },
+        {
+            "nombre": "Tablet",
+            "precio": 400,
+            "descripcion": "Tablet con pantalla de 10 pulgadas y 64GB de almacenamiento."
+        },
+        {
+            "nombre": "Smartwatch",
+            "precio": 200,
+            "descripcion": "Reloj inteligente con monitor de actividad y notificaciones."
+        },
+        {
+            "nombre": "Cámara",
+            "precio": 500,
+            "descripcion": "Cámara digital con lente intercambiable y 20MP."
+        },
+        {
+            "nombre": "Impresora",
+            "precio": 100,
+            "descripcion": "Impresora multifuncional con conectividad Wi-Fi."
+        },
+        {
+            "nombre": "Teclado Mecánico",
+            "precio": 80,
+            "descripcion": "Teclado mecánico con retroiluminación RGB."
+        },
+        {
+            "nombre": "Mouse Gamer",
+            "precio": 60,
+            "descripcion": "Mouse gamer con sensor de alta precisión y 6 botones programables."
+        },
+        {
+            "nombre": "Monitor",
+            "precio": 300,
+            "descripcion": "Monitor de 27 pulgadas con resolución 4K."
+        }
+    ]
+}

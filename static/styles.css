@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    max-width: 500px;
+    margin: auto;
+}
+
+.chat-box {
+    height: 400px;
+    overflow-y: auto;
+    background-color: #ffffff;
+}
+
+.text-right .d-inline-block {
+    background-color: #007bff;
+    color: #ffffff;
+}
+
+.text-left .d-inline-block {
+    background-color: #f1f1f1;
+    color: #000000;
+}
